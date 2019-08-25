@@ -1,3 +1,7 @@
+//This challenge comes from this reddit post:
+//https://www.reddit.com/r/dailyprogrammer/comments/cdieag/20190715_challenge_379_easy_progressive_taxation/
+
+
 const taxBrackets = [10000, 30000, 100000];
 const taxRates = [0, .1, .25, .4];
 
